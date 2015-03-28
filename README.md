@@ -1,2 +1,2 @@
 # FleaSim
-Game/Simulation of fleas' life
+Game/simulation of fleas' life
