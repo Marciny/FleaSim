@@ -8,7 +8,8 @@ Overall high number of blood marks invokes also deadly scratches. Certain area m
 Biting also increases potency attribute needed for procreation, which has to be replenished.   
 Fleas are of different sex - male (black) and female (purple).   
 Baby fleas spawn at random location instantly after close encounters of different sex fleas.   
-Game ends when all fleas die.
+Game ends when all fleas die.  
+There are three types of powerups appearing once in a while -  2x jump power, 2x bite power, and new flea spawn.
 
 ######Descriptions on screen (visible by toggling with 't' key):
 On the top left there is jump power bar, next to it lies potency bar.  
