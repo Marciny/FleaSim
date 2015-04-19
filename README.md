@@ -19,9 +19,9 @@ Bitten area - percentage of actual bitten area to the maximal possible level of 
 ######Controls :
 * LMB(hold) - jump with speed depending on holding time in the direction of mouse cursor
 * RMB - bite / procreate if in close proximity to flea of another sex
-* space - center camera on player's flea
-* t - toggle display of score and other parameters
-* escape - quit
+* SPACE - center camera on player's flea
+* TAB - toggle display of score and other parameters
+* ESCAPE - quit
 
 ###### Made with:
 * python 3.4
