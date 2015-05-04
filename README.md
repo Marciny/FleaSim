@@ -2,6 +2,7 @@
 ######Game/simulation of fleas' life
 
 ######Aim : eat and breed and maybe not die.
+To initialize game, run grapchla.py.
 With each bite fleas get bigger and have more biting power.   
 Each bite create blood mark, high concentration of blood marks invokes deadly slaps (pictured as big circles).   
 Overall high number of blood marks invokes also deadly scratches. Certain area may be bitten several times (default: 2), which is represented by transparent red color (full red - maximal degree).  
@@ -27,3 +28,6 @@ Bitten area - percentage of actual bitten area to the maximal possible level of 
 * python 3.4
 * pygame 1.9.2a0
 * numpy
+
+
+Background image (which can be substituted) as well as audio (downloaded from soundbible.com) is not made by me.
